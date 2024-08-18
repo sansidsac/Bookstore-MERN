@@ -19,4 +19,4 @@ const bookSchema=mongoose.Schema({
     }
 );
 
-export const Book = mongoose.model('junglebook', bookSchema);
+export const Book = mongoose.model('general books', bookSchema);
